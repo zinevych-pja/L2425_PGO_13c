@@ -1,4 +1,4 @@
-package Cw2;
+package Cw_03_22;
 
 public class Zamowienie {
 
